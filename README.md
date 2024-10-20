@@ -1,0 +1,1 @@
+This C program is a simple command-line to-do list manager that allows users to add, remove, view, save, and load tasks.The program uses basic file I/O operations to persist tasks between sessions and employs simple input validation to manage user interactions.
